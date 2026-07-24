@@ -3,6 +3,7 @@
 ## 📌 Project Overview
 This project is an end-to-end Monitoring, Evaluation, Accountability, and Learning (MEAL) data analytics solution designed for international organizations and non-governmental entities (NGOs). It tracks multi-region humanitarian project key performance indicators (KPIs), fund allocation efficiency, community-level activity engagement, and beneficiary demographics over time.
 
+Link to the Live Project: https://public.tableau.com/app/profile/joshua.dauda/viz/CommunityHealthHumanitarianProject-MEALPerformanceDashboard/NGOMEALExecutiveOverview
 ---
 
 ## 💼 Business Problem
